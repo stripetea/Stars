@@ -1,1 +1,79 @@
+\documentclass[a4paper,12pt]{report}
+\usepackage[T2A]{fontenc}
+\usepackage[utf8]{inputenc}
+%\usepackage[14pt]{extsizes}
+\usepackage[english,russian]{babel}
+\usepackage {titlesec, textcase} 
+\usepackage{amssymb,amsfonts,amsmath,cite,enumerate,float}
+\usepackage[dvips]{graphicx}
+\usepackage {indentfirst}
 
+
+
+% поддержка гиперссылок; гиперссылки в pdf, должен быть последним загруженным пакетом
+\ifx\pdfoutput\undefined
+    \usepackage[unicode,dvips]{hyperref}
+\else
+    \usepackage[pdftex,colorlinks,unicode,bookmarks]{hyperref}
+\fi
+
+\graphicspath{{images/}}
+
+\makeatletter
+\renewcommand{\@biblabel}[1]{#1.} % Заменяем библиографию с квадратных скобок на точку:
+\makeatother
+
+% Меняем поля страницы
+\usepackage{geometry}
+\geometry{left=3cm}
+\geometry{right=1.5cm}
+\geometry{top=2cm}
+\geometry{bottom=2cm}
+
+% Меняем везде перечисления на цифра.цифра
+\renewcommand{\theenumi}{\arabic{enumi}}
+\renewcommand{\labelenumi}{\arabic{enumi}}
+\renewcommand{\theenumii}{.\arabic{enumii}}
+\renewcommand{\labelenumii}{\arabic{enumi}.\arabic{enumii}.}
+\renewcommand{\theenumiii}{.\arabic{enumiii}}
+\renewcommand{\labelenumiii}{\arabic{enumi}.\arabic{enumii}.\arabic{enumiii}.}
+\renewcommand{\contentsname}{Содержание}
+\renewcommand{\bibname}{Список использованных источников}
+
+\makeatletter
+\titleformat{\chapter}{\huge\bfseries}{\thechapter. }{0pt}{\huge}
+\makeatother
+
+\begin{document}
+
+\input{title}
+
+\tableofcontents
+
+\chapter{Введение}
+\input{introduction}
+
+\chapter{T Tauri}
+\input{T_Tauri}
+
+\chapter{Данные}
+\input{data}
+
+\chapter{Отбор}
+\input{otbor}
+
+\chapter{Улучшение списка}
+\input{refining}
+
+\chapter{Анализ}
+\input{analysis}
+
+\chapter{Выводы}
+\input{conclusion}
+
+
+\addcontentsline{toc}{chapter}{\bibname}
+
+%\bibliography{bibliography}     %% имя библиографической базы (bib-файла) 
+
+\end{document}

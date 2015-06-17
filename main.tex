@@ -10,7 +10,7 @@
 
 
 
-% поддержка гиперссылок; гиперссылки в pdf, должен быть последним загруженным пакетом
+% РїРѕРґРґРµСЂР¶РєР° РіРёРїРµСЂСЃСЃС‹Р»РѕРє; РіРёРїРµСЂСЃСЃС‹Р»РєРё РІ pdf, РґРѕР»Р¶РµРЅ Р±С‹С‚СЊ РїРѕСЃР»РµРґРЅРёРј Р·Р°РіСЂСѓР¶РµРЅРЅС‹Рј РїР°РєРµС‚РѕРј
 \ifx\pdfoutput\undefined
     \usepackage[unicode,dvips]{hyperref}
 \else
@@ -20,25 +20,25 @@
 \graphicspath{{images/}}
 
 \makeatletter
-\renewcommand{\@biblabel}[1]{#1.} % Заменяем библиографию с квадратных скобок на точку:
+\renewcommand{\@biblabel}[1]{#1.} % Р—Р°РјРµРЅСЏРµРј Р±РёР±Р»РёРѕРіСЂР°С„РёСЋ СЃ РєРІР°РґСЂР°С‚РЅС‹С… СЃРєРѕР±РѕРє РЅР° С‚РѕС‡РєСѓ:
 \makeatother
 
-% Меняем поля страницы
+% РњРµРЅСЏРµРј РїРѕР»СЏ СЃС‚СЂР°РЅРёС†С‹
 \usepackage{geometry}
 \geometry{left=3cm}
 \geometry{right=1.5cm}
 \geometry{top=2cm}
 \geometry{bottom=2cm}
 
-% Меняем везде перечисления на цифра.цифра
+% РњРµРЅСЏРµРј РІРµР·РґРµ РїРµСЂРµС‡РёСЃР»РµРЅРёСЏ РЅР° С†РёС„СЂР°.С†РёС„СЂР°
 \renewcommand{\theenumi}{\arabic{enumi}}
 \renewcommand{\labelenumi}{\arabic{enumi}}
 \renewcommand{\theenumii}{.\arabic{enumii}}
 \renewcommand{\labelenumii}{\arabic{enumi}.\arabic{enumii}.}
 \renewcommand{\theenumiii}{.\arabic{enumiii}}
 \renewcommand{\labelenumiii}{\arabic{enumi}.\arabic{enumii}.\arabic{enumiii}.}
-\renewcommand{\contentsname}{Содержание}
-\renewcommand{\bibname}{Список использованных источников}
+\renewcommand{\contentsname}{РЎРѕРґРµСЂР¶Р°РЅРёРµ}
+\renewcommand{\bibname}{РЎРїРёСЃРѕРє РёСЃРїРѕР»СЊР·РѕРІР°РЅРЅС‹С… РёСЃС‚РѕС‡РЅРёРєРѕРІ}
 
 \makeatletter
 \titleformat{\chapter}{\huge\bfseries}{\thechapter. }{0pt}{\huge}
@@ -50,13 +50,17 @@
 
 \tableofcontents
 
-\chapter{Введение}
+\chapter{Р’РІРµРґРµРЅРёРµ}
 \input{introduction}
+
+\chapter{T Tauri}
+\input{T Tauri}
+
 
 
 
 \addcontentsline{toc}{chapter}{\bibname}
 
-\bibliography{bibliography}     %% имя библиографической базы (bib-файла) 
+\bibliography{bibliography}     %% РёРјСЏ Р±РёР±Р»РёРѕРіСЂР°С„РёС‡РµСЃРєРѕР№ Р±Р°Р·С‹ (bib-С„Р°Р№Р»Р°) 
 
 \end{document}
