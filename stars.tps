@@ -11,14 +11,14 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=1127
-NormalPos.bottom=469
+NormalPos.right=1008
+NormalPos.bottom=349
 Class=LaTeXView
 Document=stars.tex
 
 [Frame0_View0,0]
-TopLine=35
-Cursor=1956
+TopLine=12
+Cursor=72
 
 [Frame1]
 Flags=0
@@ -29,13 +29,13 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=1127
-NormalPos.bottom=469
+NormalPos.right=1008
+NormalPos.bottom=349
 Class=LaTeXView
 Document=title.tex
 
 [Frame1_View0,0]
-TopLine=11
+TopLine=6
 Cursor=971
 
 [Frame2]
@@ -47,8 +47,8 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=1127
-NormalPos.bottom=469
+NormalPos.right=1008
+NormalPos.bottom=349
 Class=LaTeXView
 Document=introduction.tex
 
@@ -65,14 +65,14 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=1127
-NormalPos.bottom=469
+NormalPos.right=1008
+NormalPos.bottom=349
 Class=LaTeXView
 Document=data.tex
 
 [Frame3_View0,0]
-TopLine=0
-Cursor=53
+TopLine=7
+Cursor=339
 
 [Frame4]
 Flags=0
@@ -83,8 +83,8 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=1127
-NormalPos.bottom=469
+NormalPos.right=1008
+NormalPos.bottom=349
 Class=LaTeXView
 Document=otbor.tex
 
@@ -101,14 +101,14 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=1127
-NormalPos.bottom=469
+NormalPos.right=1008
+NormalPos.bottom=349
 Class=LaTeXView
 Document=refining.tex
 
 [Frame5_View0,0]
 TopLine=0
-Cursor=1410
+Cursor=951
 
 [Frame6]
 Flags=0
@@ -119,8 +119,8 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=1127
-NormalPos.bottom=469
+NormalPos.right=1008
+NormalPos.bottom=349
 Class=LaTeXView
 Document=analysis.tex
 
@@ -137,8 +137,8 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=1127
-NormalPos.bottom=469
+NormalPos.right=1008
+NormalPos.bottom=349
 Class=LaTeXView
 Document=conclusion.tex
 
@@ -148,5 +148,5 @@ Cursor=902
 
 [SessionInfo]
 FrameCount=8
-ActiveFrame=5
+ActiveFrame=3
 
