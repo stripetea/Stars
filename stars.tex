@@ -17,8 +17,10 @@
     \usepackage[pdftex,colorlinks,unicode,bookmarks]{hyperref}
 \fi
 
-\graphicspath{{images/}}
-
+\linespread{1.3} % Полуторный интвервал (ГОСТ Р 7.0.11-2011, 5.3.6)
+\sloppy % Избавляемся от переполнений
+\clubpenalty=10000 % Запрещаем разрыв страницы после первой строки абзаца
+\widowpenalty=10000 % Запрещаем разрыв страницы после последней строки абзаца
 \makeatletter
 \renewcommand{\@biblabel}[1]{#1.} % Заменяем библиографию с квадратных скобок на точку:
 \makeatother
@@ -43,6 +45,8 @@
 \makeatletter
 \titleformat{\chapter}{\huge\bfseries}{\thechapter. }{0pt}{\huge}
 \makeatother
+
+\graphicspath{{images/}}
 
 \begin{document}
 
