@@ -17,8 +17,8 @@ Class=LaTeXView
 Document=stars.tex
 
 [Frame0_View0,0]
-TopLine=51
-Cursor=1604
+TopLine=1
+Cursor=1021
 
 [Frame1]
 Flags=0
@@ -53,8 +53,8 @@ Class=LaTeXView
 Document=introduction.tex
 
 [Frame2_View0,0]
-TopLine=0
-Cursor=519
+TopLine=12
+Cursor=1684
 
 [Frame3]
 Flags=0
@@ -71,8 +71,8 @@ Class=LaTeXView
 Document=data.tex
 
 [Frame3_View0,0]
-TopLine=17
-Cursor=7624
+TopLine=0
+Cursor=1575
 
 [Frame4]
 Flags=0
@@ -89,8 +89,8 @@ Class=LaTeXView
 Document=otbor.tex
 
 [Frame4_View0,0]
-TopLine=0
-Cursor=14
+TopLine=83
+Cursor=7720
 
 [Frame5]
 Flags=0
@@ -108,7 +108,7 @@ Document=refining.tex
 
 [Frame5_View0,0]
 TopLine=0
-Cursor=951
+Cursor=1797
 
 [Frame6]
 Flags=0
@@ -126,7 +126,7 @@ Document=analysis.tex
 
 [Frame6_View0,0]
 TopLine=0
-Cursor=472
+Cursor=915
 
 [Frame7]
 Flags=0
@@ -161,10 +161,10 @@ Class=LaTeXView
 Document=T_Tauri.tex
 
 [Frame8_View0,0]
-TopLine=24
-Cursor=7421
+TopLine=15
+Cursor=2958
 
 [SessionInfo]
 FrameCount=9
-ActiveFrame=2
+ActiveFrame=4
 
