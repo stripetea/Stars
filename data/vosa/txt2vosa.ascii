@@ -1,0 +1,84 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>VOSA: VO Sed Analyzer</title>
+<meta name="Description" content="" />
+<meta name="Keywords" content="VO, LAEFF, SVO, " />
+<meta name="Author" content="Carlos Rodrigo" />
+<meta name="Copyright" content="Copyright (c) 2005 by crb" />
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<meta name="Robots" content="index,follow" />
+<meta name="Resource-Type" content="document" />
+<meta http-equiv="Expires" content="0" />
+<meta name="Revisit-After" content="1 days" />
+<meta name="Distribution" content="Global" />
+<meta name="Rating" content="General" /><link rel="shortcut icon" href="../layout2/img/favicon5.ico" /><link rel="icon" href="../layout2/img/icon5.png" type="image/png" /><link rel="stylesheet" href="../layout2/style.css" type="text/css" />
+<link rel="stylesheet" href="../layout2/style2.css" type="text/css" />
+<link rel="stylesheet" href="../layout2/lac/menu-lac.css" type="text/css" />
+<link rel="stylesheet" href="../vosa4/vosa.css" type="text/css"/></head>
+<body><script language="JavaScript" src="../common/javascript/wz_tooltip.js" ></script><div class=logo><a href="http://svo.cab.inta-csic.es" target="_blank"><img src="../layout2/img/logo-svo2.png" border=0></a></div>
+<div class=fondo2><img src="../layout2//img/orion2.jpg"></div>
+<center>
+<table cellpadding=0 cellspacing=0 border=0 width="1000">
+<tr>
+<td height=30 class=tabletop>    <table cellpadding=0 cellspacing=0 border=0 width="100%">
+    <tr>
+     <td class=menutop><a href="..">SVO theoretical services</a></td>     <td class=menutop align=left><table cellpadding=0 cellspacing=0 border=0><td align=left>
+
+<ul class="menu2">
+  <li class="top"><a href="../vosa4/" class="top_link">VOSA</a></li> 
+  <li class="top"><a href="../fps3/" class="top_link" target="_blank">Filters</a></li> 
+  <li class="top"><a href="../main/?page=models" class="top_link"><span class="down">Models</span> 
+<!--[if gte IE 7]><!--></a><!--<![endif]-->
+      
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul class="sub">
+            <li nowrap><a href="../newov">Theoretical Spectra</a></li>
+            <li nowrap><a href="../newov/templates.php">Observational Templates</a></li>
+            <li nowrap><a href="../newov/syph.php">Synthetic Photometry</a></li>
+            <li nowrap><a href="../newov/isoc.php">Isochrones and evolutionary tracks</a></li>
+            <li nowrap><a href="http://svo.cab.inta-csic.es/theory/sisms3" target="_blank">Asteroseismology</a></li>
+      </ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+  </li>
+  <li class="top"><a href="../docs2/index.php?pname=Documents&pagecateg=docs" class="top_link"><span class="down">Documents</span> 
+<!--[if gte IE 7]><!--></a><!--<![endif]-->
+      
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul class="sub">
+            <li nowrap><a href="../docs2/index.php?pname=Theory%20in%20the%20VO">Theory in the VO</a></li>
+            <li nowrap><a href="../docs2/index.php?pname=TSAP">TSAP</a></li>
+            <li nowrap><a href="../docs2/index.php?pname=S3">S3</a></li>
+      </ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+  </li>
+  <li class="top"><a href="../docs2/index.php?pname=Services&pagecateg=services" class="top_link"><span class="down">Other Services</span> 
+<!--[if gte IE 7]><!--></a><!--<![endif]-->
+      
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul class="sub">
+            <li nowrap><a href="../iue">IUE HPDP spectra</a></li>
+            <li nowrap><a href="../kainu">Kainulainen extinction map</a></li>
+            <li nowrap><a href="../aexmap">ChaI extinction map</a></li>
+      </ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+  </li>
+</ul></td></table>     </td>     <td class=menutop align=right><table cellpadding=0 cellspacing=0 border=0><td align=left>
+
+<ul class="menu2">
+  <li class="top"><a href="../user2/user.php" class="top_link">My data</a></li> 
+  <li class="top"><a href="/theory/vosa/txt2vosa.php?&boton=LogOut" class="top_link">LogOut</a></li> 
+</ul></td></table>     </td>    </tr>
+    </table>
+</td>
+</tr>
+<tr>
+<td height=60 class=pagetit><img src="../layout2/img/logo_9.png" border=0></td></tr>
+<tr>
+<td class=main valign=top>
+<div class="pagetext"><center></center><div class=vosautiltit><a href="utilities.php">VOSA utilities</a> : <a href="txt2vosa.php">txt2vosa</a></div><center><div class=help><h2>VOSA Utilities: txt2vosa</h2></center><h3>Step 1</h3> <p><b>Upload your own data file</b> (max size=500Kb)<br>It must be a CSV (comma separated values) file with a different line for each object. One of the columns must be the object name (or some other value that can be used as object identifier). Some of the others should be the object coordinates and/or magnitudes or fluxes corresponding to known filters.&nbsp;<p><form method="post" enctype="multipart/form-data" action="txt2vosa.php"><table><tr><td class=resfield>File to upload:</td><td class=botones> <input type="file" name="userfile" size=20></td></tr><tr><td colspan=2 class=botones><input type="submit" value="Upload"></td></tr></table></form></div>
+</td></tr><tr>
+<td class=bottom valign=top>
+&copy CAB 2012
+</td></tr></table>
+&nbsp;
