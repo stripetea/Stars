@@ -1,0 +1,62 @@
+\begin{thebibliography}{1}
+\def\selectlanguageifdefined#1{
+\expandafter\ifx\csname date#1\endcsname\relax
+\else\language\csname l@#1\endcsname\fi}
+\ifx\undefined\url\def\url#1{{\small #1}}\else\fi
+\ifx\undefined\BibUrl\def\BibUrl#1{\url{#1}}\else\fi
+\ifx\undefined\BibAnnote\long\def\BibAnnote#1{}\else\fi
+\ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
+
+\bibitem{park2012far}
+\selectlanguageifdefined{english}
+Far-ultraviolet Observation of the Aquila Rift with FIMS/SPEAR~/ S-J~Park,
+  K-W~Min, K-I~Seon et~al.~// \BibEmph{The Astrophysical Journal}. ---
+\newblock 2012. ---
+\newblock Vol. 754, no.~1. ---
+\newblock P.~10.
+
+\bibitem{AIGdC2014galex}
+\selectlanguageifdefined{english}
+A GALEX based search for the sparse young stellar population in the
+  Taurus-Aurigae star forming region~/ Ana~I~G{\'o}mez~de~Castro,
+  Javier~Lopez-Santiago, F{\'a}tima~L{\'o}pez-Mart{\'\i}nez et~al.~//
+  \BibEmph{arXiv preprint arXiv:1412.3002}. ---
+\newblock 2014.
+
+\bibitem{malkov2011scientific}
+\selectlanguageifdefined{english}
+Scientific program construction principles and time allocation scheme for the
+  World Space Observatory—Ultraviolet mission~/ Oleg~Malkov, Mikhail~Sachkov,
+  Boris~Shustov et~al.~// \BibEmph{Astrophysics and space science}. ---
+\newblock 2011. ---
+\newblock Vol. 335, no.~1. ---
+\newblock Pp.~323--327.
+
+\bibitem{dod2013}
+\selectlanguageifdefined{english}
+\BibEmph{Додин~Александр~Владимирович}.
+  Определение физических условий в
+  аккреционных пятнах звезд типа T тельца на
+  основе анализа их спектров: Ph.D. thesis~/ МГУ
+  им. МВ Ломоносова, Гос. астрон. ин-т им. ПК
+  Штернберга М. ---
+\newblock 2013.
+
+\bibitem{krav2004}
+\selectlanguageifdefined{english}
+\BibEmph{Кравцова~Александра~Сергеевна}.
+  Анализ ультрафиолетовых спектров звезд
+  типа Т Тельца: Ph.D. thesis~/ МГУ им. МВ
+  Ломоносова, Гос. астрон. ин-т им. ПК
+  Штернберга М. ---
+\newblock 2004.
+
+\bibitem{de1997accretion}
+\selectlanguageifdefined{english}
+\BibEmph{G{\'o}mez~de Castro~Ana~I, Franqueira~M}. Accretion and UV variability
+  in BP Tauri~// \BibEmph{The Astrophysical Journal}. ---
+\newblock 1997. ---
+\newblock Vol. 482, no.~1. ---
+\newblock P.~465.
+
+\end{thebibliography}
