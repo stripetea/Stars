@@ -51,6 +51,15 @@ Scientific program construction principles and time allocation scheme for the
   Штернберга М. ---
 \newblock 2004.
 
+\bibitem{ochsenbein2000vizier}
+\selectlanguageifdefined{english}
+\BibEmph{Ochsenbein~Fran{\c{c}}ois, Bauer~Patricia, Marcout~James}. The VizieR
+  database of astronomical catalogues~// \BibEmph{Astronomy and Astrophysics
+  Supplement Series}. ---
+\newblock 2000. ---
+\newblock Vol. 143, no.~1. ---
+\newblock Pp.~23--32.
+
 \bibitem{de1997accretion}
 \selectlanguageifdefined{english}
 \BibEmph{G{\'o}mez~de Castro~Ana~I, Franqueira~M}. Accretion and UV variability
@@ -58,5 +67,23 @@ Scientific program construction principles and time allocation scheme for the
 \newblock 1997. ---
 \newblock Vol. 482, no.~1. ---
 \newblock P.~465.
+
+\bibitem{wenger2000simbad}
+\selectlanguageifdefined{english}
+The SIMBAD astronomical database-The CDS reference database for astronomical
+  objects~/ Marc~Wenger, Fran{\c{c}}ois~Ochsenbein, Daniel~Egret et~al.~//
+  \BibEmph{Astronomy and Astrophysics Supplement Series}. ---
+\newblock 2000. ---
+\newblock Vol. 143, no.~1. ---
+\newblock Pp.~9--22.
+
+\bibitem{bayo2008vosa}
+\selectlanguageifdefined{english}
+VOSA: virtual observatory SED analyzer-An application to the Collinder 69 open
+  cluster~/ A~Bayo, C~Rodrigo, D~Barrado~y~Navascu{\'e}s et~al.~//
+  \BibEmph{Astronomy \& Astrophysics}. ---
+\newblock 2008. ---
+\newblock Vol. 492, no.~1. ---
+\newblock Pp.~277--287.
 
 \end{thebibliography}
