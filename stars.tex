@@ -17,9 +17,15 @@
     \usepackage[pdftex,colorlinks,unicode,bookmarks]{hyperref}
 \fi
 
+%\makeatletter
+%\titleformat{\chapter}{\huge\bfseries}{\thechapter. }{0pt}{\huge} % Правим названия глав
+%\bibliographystyle{utf8gost71u} % Оформляем библиографию по ГОСТ 7.1 (ГОСТ Р 7.0.11-2011, 5.6.7)
+%\renewcommand{\@biblabel}[1]{#1.} % Заменяем библиографию с квадратных скобок на точку
+%\makeatother
+
 \makeatletter
 %\titleformat{\chapter}{\huge\bfseries}{\thechapter. }{0pt}{\huge} % Правим названия глав
-\bibliographystyle{utf8gost71u} % Оформляем библиографию по ГОСТ 7.1 (ГОСТ Р 7.0.11-2011, 5.6.7)
+\bibliographystyle{IEEEtran} % Оформляем библиографию по ГОСТ 7.1 (ГОСТ Р 7.0.11-2011, 5.6.7)
 \renewcommand{\@biblabel}[1]{#1.} % Заменяем библиографию с квадратных скобок на точку
 \makeatother
 

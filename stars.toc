@@ -1,6 +1,6 @@
 \select@language {russian}
 \contentsline {chapter}{\numberline {1}\IeC {\CYRV }\IeC {\cyrv }\IeC {\cyre }\IeC {\cyrd }\IeC {\cyre }\IeC {\cyrn }\IeC {\cyri }\IeC {\cyre }}{3}{chapter.1}
-\contentsline {section}{\numberline {1.1}T Tauri \IeC {\cyrz }\IeC {\cyrv }\IeC {\cyryo }\IeC {\cyrz }\IeC {\cyrd }\IeC {\cyrery }}{3}{section.1.1}
+\contentsline {section}{\numberline {1.1}\IeC {\CYRC }\IeC {\cyre }\IeC {\cyrl }\IeC {\cyrsftsn } \IeC {\cyrr }\IeC {\cyra }\IeC {\cyrb }\IeC {\cyro }\IeC {\cyrt }\IeC {\cyrery }}{3}{section.1.1}
 \contentsline {section}{\numberline {1.2}\IeC {\CYRI }\IeC {\cyrz }\IeC {\cyru }\IeC {\cyrch }\IeC {\cyra }\IeC {\cyre }\IeC {\cyrm }\IeC {\cyra }\IeC {\cyrya } \IeC {\cyro }\IeC {\cyrb }\IeC {\cyrl }\IeC {\cyra }\IeC {\cyrs }\IeC {\cyrt }\IeC {\cyrsftsn }}{3}{section.1.2}
 \contentsline {section}{\numberline {1.3}\IeC {\CYRM }\IeC {\cyre }\IeC {\cyrt }\IeC {\cyro }\IeC {\cyrd } \IeC {\cyrp }\IeC {\cyro }\IeC {\cyri }\IeC {\cyrs }\IeC {\cyrk }\IeC {\cyra }}{4}{section.1.3}
 \contentsline {section}{\numberline {1.4}\IeC {\CYRA }\IeC {\cyrk }\IeC {\cyrt }\IeC {\cyru }\IeC {\cyra }\IeC {\cyrl }\IeC {\cyrsftsn }\IeC {\cyrn }\IeC {\cyro }\IeC {\cyrs }\IeC {\cyrt }\IeC {\cyrsftsn }}{4}{section.1.4}
