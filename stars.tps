@@ -17,7 +17,7 @@ Class=LaTeXView
 Document=analysis.tex
 
 [Frame0_View0,0]
-TopLine=65
+TopLine=53
 Cursor=4613
 
 [Frame1]
@@ -53,7 +53,7 @@ Class=LaTeXView
 Document=T_Tauri.tex
 
 [Frame2_View0,0]
-TopLine=3
+TopLine=0
 Cursor=2254
 
 [Frame3]
@@ -71,7 +71,7 @@ Class=BibTeXView
 Document=Bib.bib
 
 [Frame3_View0,0]
-TopLine=47
+TopLine=40
 Cursor=2090
 
 [Frame4]
@@ -89,7 +89,7 @@ Class=LaTeXView
 Document=stars.tex
 
 [Frame4_View0,0]
-TopLine=16
+TopLine=6
 Cursor=681
 
 [Frame5]
@@ -143,7 +143,7 @@ Class=LaTeXView
 Document=data.tex
 
 [Frame7_View0,0]
-TopLine=69
+TopLine=4
 Cursor=3365
 
 [Frame8]
@@ -161,7 +161,7 @@ Class=LaTeXView
 Document=otbor.tex
 
 [Frame8_View0,0]
-TopLine=139
+TopLine=116
 Cursor=12785
 
 [Frame9]
@@ -179,7 +179,7 @@ Class=LaTeXView
 Document=refining.tex
 
 [Frame9_View0,0]
-TopLine=39
+TopLine=11
 Cursor=4855
 
 [SessionInfo]

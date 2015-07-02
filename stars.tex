@@ -61,6 +61,13 @@
 \titleformat{\chapter}{\huge\bfseries}{\thechapter. }{0pt}{\huge}
 \makeatother
 
+\addto\captionsrussian{
+	\renewcommand{\contentsname}{Оглавление} % (ГОСТ Р 7.0.11-2011, 4)
+	\renewcommand{\appendixname}{Приложение} % (ГОСТ Р 7.0.11-2011, 5.7)
+	\renewcommand{\bibname}{Список литературы} % (ГОСТ Р 7.0.11-2011, 4)
+}
+
+
 \graphicspath{{images/}}
 
 \begin{document}
@@ -90,8 +97,8 @@
 \chapter{Выводы}
 \input{conclusion}
 
-\addcontentsline{toc}{chapter}{\bibname}
 
+\addcontentsline{toc}{chapter}{Список литературы}
 \bibliography{Bib}     %% имя библиографической базы (bib-файла) 
 
 \end{document}
