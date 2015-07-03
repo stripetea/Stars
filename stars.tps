@@ -11,14 +11,14 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=1008
+NormalPos.right=1143
 NormalPos.bottom=327
 Class=LaTeXView
-Document=refining.tex
+Document=otbor.tex
 
 [Frame0_View0,0]
-TopLine=47
-Cursor=6750
+TopLine=143
+Cursor=15345
 
 [Frame1]
 Flags=0
@@ -29,14 +29,14 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=1008
+NormalPos.right=1143
 NormalPos.bottom=327
 Class=LaTeXView
-Document=analysis.tex
+Document=data.tex
 
 [Frame1_View0,0]
-TopLine=52
-Cursor=4203
+TopLine=64
+Cursor=8725
 
 [Frame2]
 Flags=0
@@ -47,14 +47,14 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=1008
+NormalPos.right=1143
 NormalPos.bottom=327
 Class=LaTeXView
-Document=conclusion.tex
+Document=introduction.tex
 
 [Frame2_View0,0]
-TopLine=0
-Cursor=12
+TopLine=65
+Cursor=4722
 
 [Frame3]
 Flags=0
@@ -65,14 +65,14 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=1008
+NormalPos.right=1143
 NormalPos.bottom=327
 Class=LaTeXView
-Document=T_Tauri.tex
+Document=title.tex
 
 [Frame3_View0,0]
-TopLine=27
-Cursor=2254
+TopLine=0
+Cursor=794
 
 [Frame4]
 Flags=0
@@ -83,14 +83,14 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=1008
+NormalPos.right=1143
 NormalPos.bottom=327
-Class=BibTeXView
-Document=Bib.bib
+Class=LaTeXView
+Document=refining.tex
 
 [Frame4_View0,0]
-TopLine=45
-Cursor=2090
+TopLine=6
+Cursor=1600
 
 [Frame5]
 Flags=0
@@ -101,14 +101,14 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=1008
+NormalPos.right=1143
 NormalPos.bottom=327
 Class=LaTeXView
-Document=stars.tex
+Document=analysis.tex
 
 [Frame5_View0,0]
-TopLine=6
-Cursor=681
+TopLine=78
+Cursor=4203
 
 [Frame6]
 Flags=0
@@ -119,14 +119,14 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=1008
+NormalPos.right=1143
 NormalPos.bottom=327
 Class=LaTeXView
-Document=title.tex
+Document=conclusion.tex
 
 [Frame6_View0,0]
 TopLine=0
-Cursor=794
+Cursor=12
 
 [Frame7]
 Flags=0
@@ -137,14 +137,14 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=1008
+NormalPos.right=1143
 NormalPos.bottom=327
 Class=LaTeXView
-Document=introduction.tex
+Document=T_Tauri.tex
 
 [Frame7_View0,0]
-TopLine=0
-Cursor=241
+TopLine=73
+Cursor=10004
 
 [Frame8]
 Flags=0
@@ -155,14 +155,14 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=1008
+NormalPos.right=1143
 NormalPos.bottom=327
-Class=LaTeXView
-Document=data.tex
+Class=BibTeXView
+Document=Bib.bib
 
 [Frame8_View0,0]
-TopLine=4
-Cursor=3365
+TopLine=48
+Cursor=2090
 
 [Frame9]
 Flags=0
@@ -173,16 +173,16 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=1008
+NormalPos.right=1143
 NormalPos.bottom=327
 Class=LaTeXView
-Document=otbor.tex
+Document=stars.tex
 
 [Frame9_View0,0]
-TopLine=144
-Cursor=12785
+TopLine=6
+Cursor=681
 
 [SessionInfo]
 FrameCount=10
-ActiveFrame=1
+ActiveFrame=4
 
