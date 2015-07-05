@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.6.13)  4 JUL 2015 23:27
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.6.13)  5 JUL 2015 23:30
 entering extended mode
 **stars.tex
 (C:\Users\kosh\Documents\GitHub\Stars\stars.tex
@@ -878,7 +878,9 @@ Package pdftex.def Info: images/gb_serpens.jpg used on input line 16.
 
 ] [4 <C:/Users/kosh/Documents/GitHub/Stars/images/gb_serpens.jpg>]) [5]
 {\Russian \CYRG \cyrl \cyra \cyrv \cyra } 2.
-(C:\Users\kosh\Documents\GitHub\Stars\T_Tauri.tex
+(C:\Users\kosh\Documents\GitHub\Stars\T_Tauri.tex [6
+
+]
 LaTeX Font Info:    Try loading font information for OMS+faq on input line 16.
 LaTeX Font Info:    No file OMSfaq.fd. on input line 16.
 
@@ -887,9 +889,7 @@ LaTeX Font Warning: Font shape `OMS/faq/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
 (Font)              for symbol `textbullet' on input line 16.
 
-[6
-
-] [7]) [8]
+[7]) [8]
 {\Russian \CYRG \cyrl \cyra \cyrv \cyra } 3.
 (C:\Users\kosh\Documents\GitHub\Stars\data.tex <images/filters.png, id=217, 517.18219pt x 217.5628pt>
 File: images/filters.png Graphic file (type png)
@@ -914,29 +914,29 @@ Underfull \hbox (badness 1460) in paragraph at lines 10--11
 
 [12
 
-] <images/Graph1.png, id=250, 722.7pt x 597.432pt>
+] <images/Graph1.png, id=250, 2258.4375pt x 1788.6825pt>
 File: images/Graph1.png Graphic file (type png)
  <use images/Graph1.png>
 Package pdftex.def Info: images/Graph1.png used on input line 56.
-(pdftex.def)             Requested size: 230.0431pt x 190.17026pt.
+(pdftex.def)             Requested size: 230.0431pt x 182.18118pt.
 
-<images/Graph2.png, id=252, 722.7pt x 597.432pt>
+<images/Graph2.png, id=252, 2258.4375pt x 1788.6825pt>
 File: images/Graph2.png Graphic file (type png)
  <use images/Graph2.png>
 Package pdftex.def Info: images/Graph2.png used on input line 60.
-(pdftex.def)             Requested size: 230.0431pt x 190.17026pt.
+(pdftex.def)             Requested size: 230.0431pt x 182.18118pt.
 
-<images/Graph3.png, id=253, 722.7pt x 597.432pt>
+<images/Graph3.png, id=253, 2258.4375pt x 1788.6825pt>
 File: images/Graph3.png Graphic file (type png)
  <use images/Graph3.png>
 Package pdftex.def Info: images/Graph3.png used on input line 63.
-(pdftex.def)             Requested size: 230.0431pt x 190.17026pt.
+(pdftex.def)             Requested size: 230.0431pt x 182.18118pt.
 
-<images/Graph4.png, id=254, 722.7pt x 597.432pt>
+<images/Graph4.png, id=254, 2258.4375pt x 1788.6825pt>
 File: images/Graph4.png Graphic file (type png)
  <use images/Graph4.png>
 Package pdftex.def Info: images/Graph4.png used on input line 67.
-(pdftex.def)             Requested size: 230.0431pt x 190.17026pt.
+(pdftex.def)             Requested size: 230.0431pt x 182.18118pt.
  [13] [14 <C:/Users/kosh/Documents/GitHub/Stars/images/Graph1.png> <C:/Users/kosh/Documents/GitHub/Stars/images/Graph2.p
 ng> <C:/Users/kosh/Documents/GitHub/Stars/images/Graph3.png> <C:/Users/kosh/Documents/GitHub/Stars/images/Graph4.png>] [
 15]) [16]
@@ -945,11 +945,11 @@ ng> <C:/Users/kosh/Documents/GitHub/Stars/images/Graph3.png> <C:/Users/kosh/Docu
 
 ]) [18]
 {\Russian \CYRG \cyrl \cyra \cyrv \cyra } 6.
-(C:\Users\kosh\Documents\GitHub\Stars\analysis.tex <images/colormagnitude.png, id=298, 844.8363pt x 597.432pt>
+(C:\Users\kosh\Documents\GitHub\Stars\analysis.tex <images/colormagnitude.png, id=297, 844.8363pt x 597.432pt>
 File: images/colormagnitude.png Graphic file (type png)
 
 <use images/colormagnitude.png>
-Package pdftex.def Info: images/colormagnitude.png used on input line 12.
+Package pdftex.def Info: images/colormagnitude.png used on input line 8.
 (pdftex.def)             Requested size: 281.68515pt x 199.19516pt.
  [19
 
@@ -957,54 +957,54 @@ Package pdftex.def Info: images/colormagnitude.png used on input line 12.
 <images/T_Tau.png, id=305, 582.175pt x 351.3125pt>
 File: images/T_Tau.png Graphic file (type png)
  <use images/T_Tau.png>
-Package pdftex.def Info: images/T_Tau.png used on input line 26.
+Package pdftex.def Info: images/T_Tau.png used on input line 28.
 (pdftex.def)             Requested size: 230.0431pt x 138.81783pt.
 
 <images/147sed.png, id=306, 582.175pt x 351.3125pt>
 File: images/147sed.png Graphic file (type png)
  <use images/147sed.png>
-Package pdftex.def Info: images/147sed.png used on input line 30.
+Package pdftex.def Info: images/147sed.png used on input line 32.
 (pdftex.def)             Requested size: 230.0431pt x 138.81783pt.
 
 <images/24sed.png, id=307, 582.175pt x 351.3125pt>
 File: images/24sed.png Graphic file (type png)
  <use images/24sed.png>
-Package pdftex.def Info: images/24sed.png used on input line 33.
+Package pdftex.def Info: images/24sed.png used on input line 35.
 (pdftex.def)             Requested size: 230.0431pt x 138.81783pt.
 
 <images/200sed.png, id=308, 582.175pt x 351.3125pt>
 File: images/200sed.png Graphic file (type png)
  <use images/200sed.png>
-Package pdftex.def Info: images/200sed.png used on input line 37.
+Package pdftex.def Info: images/200sed.png used on input line 39.
 (pdftex.def)             Requested size: 230.0431pt x 138.81783pt.
  [20 <C:/Users/kosh/Documents/GitHub/Stars/images/T_Tau.png> <C:/Users/kosh/Documents/GitHub/Stars/images/147sed.png> <C
 :/Users/kosh/Documents/GitHub/Stars/images/24sed.png> <C:/Users/kosh/Documents/GitHub/Stars/images/200sed.png>]
-<images/position.png, id=320, 844.8363pt x 597.432pt>
+<images/position.png, id=321, 709.2096pt x 597.432pt>
 File: images/position.png Graphic file (type png)
  <use images/position.png>
-Package pdftex.def Info: images/position.png used on input line 56.
-(pdftex.def)             Requested size: 281.68515pt x 199.19516pt.
- [21 <C:/Users/kosh/Documents/GitHub/Stars/images/position.png>] <images/trend.png, id=328, 709.2096pt x 597.432pt>
+Package pdftex.def Info: images/position.png used on input line 58.
+(pdftex.def)             Requested size: 281.68515pt x 237.29121pt.
+ [21 <C:/Users/kosh/Documents/GitHub/Stars/images/position.png>] <images/trend.png, id=329, 722.7pt x 597.432pt>
 File: images/trend.png Graphic file (type png)
  <use images/trend.png>
-Package pdftex.def Info: images/trend.png used on input line 77.
-(pdftex.def)             Requested size: 281.68515pt x 237.29121pt.
-) [22 <C:/Users/kosh/Documents/GitHub/Stars/images/trend.png>]
+Package pdftex.def Info: images/trend.png used on input line 80.
+(pdftex.def)             Requested size: 281.68515pt x 232.8608pt.
+ [22 <C:/Users/kosh/Documents/GitHub/Stars/images/trend.png>]) [23]
 {\Russian \CYRG \cyrl \cyra \cyrv \cyra } 7.
-(C:\Users\kosh\Documents\GitHub\Stars\conclusion.tex) (C:\Users\kosh\Documents\GitHub\Stars\stars.bbl [23
+(C:\Users\kosh\Documents\GitHub\Stars\conclusion.tex) (C:\Users\kosh\Documents\GitHub\Stars\stars.bbl [24
 
-] [24
+] [25
 
 ])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 104.
 
-[25]
+[26]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 104.
  (C:\Users\kosh\Documents\GitHub\Stars\stars.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 104.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 104.
 Package rerunfilecheck Info: File `stars.out' has not changed.
-(rerunfilecheck)             Checksum: 9C2FCD9C4FD2C953E2EF4911FB246BF8;5978.
+(rerunfilecheck)             Checksum: 71A5158EE1ECF3DF9EA8E8179D7306F8;6034.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1012,10 +1012,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 104.
  ) 
 Here is how much of TeX's memory you used:
- 11505 strings out of 493921
- 155833 string characters out of 3144879
- 237648 words of memory out of 3000000
- 14550 multiletter control sequences out of 15000+200000
+ 11504 strings out of 493921
+ 155816 string characters out of 3144879
+ 236761 words of memory out of 3000000
+ 14548 multiletter control sequences out of 15000+200000
  25561 words of font info for 44 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  29i,8n,31p,1785b,491s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1026,9 +1026,9 @@ rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Prog
 ublic/amsfonts/cm/cmmi8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program File
 s (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfont
 s/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on stars.pdf (26 pages, 2234523 bytes).
+Output written on stars.pdf (27 pages, 2292902 bytes).
 PDF statistics:
- 403 PDF objects out of 1000 (max. 8388607)
- 77 named destinations out of 1000 (max. 500000)
+ 408 PDF objects out of 1000 (max. 8388607)
+ 78 named destinations out of 1000 (max. 500000)
  311 words of extra memory for PDF output out of 10000 (max. 10000000)
 
